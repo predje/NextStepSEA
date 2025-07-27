@@ -1,0 +1,58 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: /* TODO: Add your preferred font */;
+    line-height: 1.6;
+    color: /* TODO: Add your text color */;
+}
+
+/* TODO: Add your custom styles below */
+
+/* Header styles */
+header {
+    /* TODO: Add header styling */
+}
+
+nav {
+    /* TODO: Add navigation styling */
+}
+
+/* Main content styles */
+main {
+    /* TODO: Add main content styling */
+}
+
+.hero {
+    /* TODO: Add hero section styling */
+}
+
+.features {
+    /* TODO: Add features section styling */
+}
+
+.about {
+    /* TODO: Add about section styling */
+}
+
+.contact {
+    /* TODO: Add contact section styling */
+}
+
+/* Footer styles */
+footer {
+    /* TODO: Add footer styling */
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    /* TODO: Add mobile styles */
+}
+
+@media (max-width: 480px) {
+    /* TODO: Add small mobile styles */
+}

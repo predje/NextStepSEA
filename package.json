@@ -1,0 +1,12 @@
+{
+  "name": "headhuntsea",
+  "version": "1.0.0",
+  "description": "HeadhuntSEA landing page",
+  "scripts": {
+    "dev": "python3 -m http.server 8000",
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": ["landing-page", "static-site"],
+  "author": "",
+  "license": "ISC"
+}
